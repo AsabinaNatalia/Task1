@@ -28,8 +28,13 @@ namespace asabina
 		{
 			int a = 3;
 			int b = 4;
+		
 			int c;
 			c = a + b;
+			for (int i = 0; i < b; i++) {
+				Console.WriteLine(i);
+			}
+
 			Console.WriteLine(c);
 		}
 	}

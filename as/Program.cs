@@ -20,13 +20,17 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 using System;
 
-namespace as
+namespace asabina
 {
 	class MainClass
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			int a = 3;
+			int b = 4;
+			int c;
+			c = a + b;
+			Console.WriteLine(c);
 		}
 	}
 }

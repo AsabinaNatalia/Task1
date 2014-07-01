@@ -26,7 +26,7 @@ namespace asabina
 	{
 		public static void Main(string[] args)
 		{
-			int a = 3;
+			int a = 4;
 			int b = 4;
 		
 			int c;
